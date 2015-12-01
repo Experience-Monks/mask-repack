@@ -1,0 +1,39 @@
+{
+  "name": "mask-repack",
+  "version": "1.0.0",
+  "description": "Takes a pair of color and alpha images and combines them into a single transparent image",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "https://github.com/hughsk"
+  },
+  "dependencies": {
+    "ndarray-ops": "^1.2.2",
+    "zeros": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mask",
+    "repack",
+    "unpack",
+    "transparent",
+    "alpha",
+    "color",
+    "join",
+    "merge",
+    "combine"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jam3/mask-repack.git"
+  },
+  "homepage": "https://github.com/jam3/mask-repack",
+  "bugs": {
+    "url": "https://github.com/jam3/mask-repack/issues"
+  }
+}
